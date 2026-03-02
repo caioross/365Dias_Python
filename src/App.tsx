@@ -7,6 +7,7 @@ import type { PythonCode, Theme } from './types';
 import Joyride, { STATUS } from 'react-joyride';
 import type { CallBackProps } from 'react-joyride';
 import { TerminalSquare } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   const [theme, setTheme] = useState<Theme>('dark');
@@ -258,6 +259,7 @@ builtins.input = _mock_input
       <footer className="w-full bg-vscode-bg/95 backdrop-blur-md border-t border-vscode-border py-1.5 flex justify-center items-center text-xs text-vscode-text opacity-80 z-50 font-medium tracking-wide">
         Feito com <span className="text-red-500 animate-pulse mx-1.5 text-sm">♥</span> para quem quer aprender e dominar Python.
       </footer>
+      <Analytics />
     </div>
   );
 }
