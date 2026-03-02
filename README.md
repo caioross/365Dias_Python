@@ -74,11 +74,3 @@ npm run dev
 
 ## 📝 Licença
 Este projeto está licenciado sob a MIT License.
-
-
-<div align="center">
-<p>Desenvolvido com ❤️ por <a href="https://github.com/caioross">Caio Ross</a></p>
-<a href="https://www.google.com/search?q=https://github.com/caioross/365dias_python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Contribuir-Link%2520do%2520Repo-blueviolet%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" alt="Link do Repositório">
-</a>
-</div>
