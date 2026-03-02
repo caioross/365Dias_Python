@@ -1,0 +1,365 @@
+01_01_2026_boas_vindas_ano_novo.py - Exibe uma mensagem de boas-vindas personalizada e calcula quantos dias faltam para o próximo ano.
+02_01_2026_tabuada_interativa.py - Gera a tabuada de um número escolhido pelo usuário de 1 a 10 de forma organizada no terminal.
+03_01_2026_contador_vogais.py - Recebe uma frase e conta quantas vogais (a, e, i, o, u) existem nela, ignorando maiúsculas e minúsculas.
+04_01_2026_calculo_imc.py - Calcula o Índice de Massa Corporal (IMC) baseado no peso e altura, classificando o resultado de saúde.
+05_01_2026_simulador_lancamento_dados.py - Simula o lançamento de um dado de 6 faces e pergunta se o usuário deseja jogar novamente.
+06_01_2026_media_notas_escolares.py - Recebe quatro notas de um aluno, calcula a média e informa se ele foi aprovado ou está em recuperação.
+07_01_2026_verificador_par_impar.py - Verifica se um número inteiro digitado pelo usuário é par ou ímpar usando o operador de resto da divisão.
+08_01_2026_conversor_cm_para_polegadas.py - Converte valores de centímetros para polegadas de forma simples e rápida para uso cotidiano.
+09_01_2026_gerador_sequencia_fibonacci.py - Solicita um número 'n' e exibe os primeiros 'n' elementos da sequência de Fibonacci.
+10_01_2026_verificador_ano_bissexto.py - Verifica se um determinado ano fornecido pelo usuário é bissexto conforme as regras do calendário gregoriano.
+11_01_2026_reverso_de_string.py - Recebe uma palavra ou frase e a exibe de trás para frente, ignorando espaços extras.
+12_01_2026_contador_caracteres_sem_espaco.py - Conta o número total de caracteres em um texto, mas desconsidera os espaços em branco na contagem.
+13_01_2026_calculo_area_circulo.py - Calcula a área de um círculo recebendo o raio do usuário e utilizando a constante Pi (math.pi).
+14_01_2026_conversor_segundos_para_horas.py - Converte uma quantidade total de segundos em horas, minutos e segundos formatados.
+15_01_2026_embaralhador_de_lista.py - Recebe uma lista de nomes ou itens e os embaralha aleatoriamente usando a biblioteca random.
+16_01_2026_gerador_nicks_games.py - Cria nomes de usuários aleatórios combinando adjetivos e substantivos pré-definidos para jogos online.
+17_01_2026_verificador_maioridade.py - Solicita o ano de nascimento e informa se a pessoa já atingiu a maioridade penal ou civil.
+18_01_2026_calculo_desconto_produto.py - Aplica uma porcentagem de desconto sobre o valor de um produto e exibe o preço final economizado.
+19_01_2026_simulador_cara_ou_coroa.py - Escolhe aleatoriamente entre "Cara" ou "Coroa" e exibe o resultado para o usuário no terminal.
+20_01_2026_ordenador_de_lista.py - Recebe uma série de números desordenados e os organiza em ordem crescente e decrescente.
+21_01_2026_cronometro_simples.py - Inicia um cronômetro no terminal que conta o tempo até que o usuário pressione uma tecla para parar.
+22_01_2026_calculadora_de_gorjetas.py - Calcula o valor da gorjeta baseado no total da conta e na porcentagem que o usuário deseja pagar.
+23_01_2026_analisador_de_triangulos.py - Recebe três medidas de lados e verifica se eles podem formar um triângulo e qual o seu tipo.
+24_01_2026_conversor_binario_decimal.py - Converte um número inteiro decimal para sua representação binária correspondente.
+25_01_2026_gerador_tabuada_completa.py - Gera e salva em um arquivo .txt as tabuadas do 1 ao 10 de uma só vez.
+26_01_2026_extrator_iniciais_nome.py - Extrai e exibe apenas as letras iniciais de um nome completo fornecido pelo usuário.
+27_01_2026_calculo_volume_esfera.py - Calcula o volume de uma esfera a partir do raio informado, útil para problemas de geometria.
+28_01_2026_verificador_palavras_proibidas.py - Verifica se uma frase contém palavras censuradas de uma lista pré-definida no código.
+29_01_2026_validador_email_basico.py - Verifica se um e-mail possui um formato válido contendo "@" e um domínio após o símbolo.
+30_01_2026_gerador_lista_compras.py - Permite ao usuário adicionar itens a uma lista de compras e salva o resultado final em um arquivo de texto.
+31_01_2026_calculo_potencia_numero.py - Solicita a base e o expoente e realiza o cálculo de potência sem usar o operador padrão (**).
+01_02_2026_organizador_arquivos_extensao.py - Move automaticamente arquivos de uma pasta para subpastas baseadas em suas extensões (.pdf, .jpg, etc).
+02_02_2026_buscador_de_palavras_em_txt.py - Procura uma palavra específica dentro de um arquivo de texto e indica em quais linhas ela aparece.
+03_02_2026_renomeador_massa_fotos.py - Renomeia sequencialmente todos os arquivos de imagem em uma pasta (ex: foto_1.jpg, foto_2.jpg).
+04_02_2026_leitor_cabecalho_csv.py - Abre um arquivo CSV e exibe apenas os nomes das colunas presentes na primeira linha.
+05_02_2026_gerador_senhas_letras_numeros.py - Cria uma senha aleatória de 8 caracteres alternando entre letras e números.
+06_02_2026_backup_incremental_simples.py - Copia apenas os arquivos novos de uma pasta de origem para uma pasta de destino de backup.
+07_02_2026_filtro_linhas_vazias.py - Lê um arquivo de texto e gera um novo arquivo removendo todas as linhas que estavam em branco.
+08_02_2026_conversor_json_para_csv.py - Converte um conjunto simples de dados no formato JSON para uma tabela organizada em CSV.
+09_02_2026_contador_frequencia_palavras.py - Analisa um texto e conta quantas vezes cada palavra aparece, exibindo o ranking das mais comuns.
+10_02_2026_verificador_integridade_arquivo.py - Calcula o hash MD5 de um arquivo para que o usuário possa verificar se ele foi alterado.
+11_02_2026_simulador_banco_terminal.py - Sistema simples de depósito, saque e consulta de saldo simulando uma conta bancária básica.
+12_02_2026_agendador_mensagens_console.py - Exibe um lembrete no terminal após um intervalo de tempo determinado pelo usuário.
+13_02_2026_conversor_romanos_para_inteiros.py - Converte números romanos (I, V, X, L, C, D, M) para o sistema decimal árabe.
+14_02_2026_limpador_cache_temporario.py - Localiza e apaga arquivos da pasta de arquivos temporários do sistema operacional para liberar espaço.
+15_02_2026_extrator_links_html.py - Lê o código de uma página HTML local e extrai todos os links presentes nas tags <a>.
+16_02_2026_verificador_anagramas.py - Recebe duas palavras e verifica se uma é um anagrama da outra (mesmas letras em ordens diferentes).
+17_02_2026_gerador_cartao_visitas_txt.py - Formata informações de contato em uma moldura artística de caracteres ASCII para impressão.
+18_02_2026_calculadora_datas_diferenca.py - Calcula a quantidade exata de dias entre duas datas informadas pelo usuário.
+19_02_2026_validador_fortaleza_senha.py - Analisa uma senha e dá uma nota de segurança baseada em tamanho e variedade de caracteres.
+20_02_2026_lista_processos_ativos.py - Lista os nomes de todos os processos que estão sendo executados no computador no momento.
+21_02_2026_monitor_bateria_notebook.py - Verifica e exibe a porcentagem atual da bateria e se o carregador está conectado.
+22_02_2026_gerador_nomes_equipes.py - Combina cores e animais aleatoriamente para sugerir nomes criativos para times ou projetos.
+23_02_2026_conversor_unidades_armazenamento.py - Converte valores entre Bytes, KB, MB, GB e TB de forma automática.
+24_02_2026_tradutor_codigo_morse.py - Converte frases em texto comum para código Morse usando pontos e traços.
+25_02_2026_verificador_permissao_arquivo.py - Checa se um arquivo específico tem permissões de leitura, escrita ou execução.
+26_02_2026_calculadora_regra_de_tres.py - Resolve problemas de regra de três simples solicitando os três valores conhecidos.
+27_02_2026_extrator_extensao_arquivo.py - Recebe o caminho completo de um arquivo e isola apenas a sua extensão.
+28_02_2026_gerador_frases_motivacionais.py - Escolhe e exibe uma frase inspiradora aleatória de uma lista interna para começar o dia.
+01_03_2026_consumo_combustivel_viagem.py - Calcula quantos litros de combustível serão gastos em uma viagem baseada na distância e consumo do carro.
+02_03_2026_simulador_investimento_poupanca.py - Calcula o rendimento mensal de um valor investido em poupança com taxa fixa.
+03_03_2026_leitor_noticias_rss.py - Faz o parsing de um feed RSS simples e exibe os títulos das últimas notícias publicadas.
+04_03_2026_organizador_downloads_data.py - Move arquivos da pasta de Downloads para pastas baseadas no mês e ano de criação.
+05_03_2026_verificador_palindromos_frases.py - Verifica se frases inteiras são palíndromos, ignorando pontuação e espaços.
+06_03_2026_calculo_preco_venda.py - Define o preço de venda de um item baseado no custo, impostos e margem de lucro desejada.
+07_03_2026_buscador_clima_cidade.py - Consulta o clima atual de uma cidade informada (requer API simples como OpenWeatherMap).
+08_03_2026_gerador_numeros_loteria.py - Sugere 6 números aleatórios entre 1 e 60 para quem deseja jogar na Mega-Sena.
+09_03_2026_leitor_metadados_imagem.py - Extrai informações básicas de uma imagem como dimensões, formato e modo de cor.
+10_03_2026_comparador_tamanho_arquivos.py - Compara dois arquivos e informa qual deles ocupa mais espaço em disco.
+11_03_2026_extrator_telefones_texto.py - Usa expressões regulares para encontrar padrões de números de telefone dentro de um texto longo.
+12_03_2026_gerador_qr_code_wifi.py - Cria um QR Code que permite conexão automática a uma rede Wi-Fi ao ser escaneado.
+13_03_2026_calculadora_idade_caes.py - Converte a idade de um cachorro para o equivalente em "anos humanos" dependendo do porte.
+14_03_2026_filtro_maiores_18_csv.py - Lê uma lista de pessoas em CSV e gera um novo arquivo apenas com quem possui mais de 18 anos.
+15_03_2026_testador_velocidade_internet.py - Realiza um teste básico de download e upload da conexão de internet atual.
+16_03_2026_converte_maiusculo_minusculo.py - Transforma todo o conteúdo de um arquivo de texto para letras maiúsculas.
+17_03_2026_calculo_tempo_leitura.py - Estima quantos minutos levará para ler um texto baseado na quantidade de palavras.
+18_03_2026_gerador_avatar_simples.py - Cria uma imagem PNG de um quadrado colorido com as iniciais do usuário no centro.
+19_03_2026_verificador_site_online.py - Tenta acessar uma URL e informa se o site está online ou fora do ar no momento.
+20_03_2026_calculadora_horas_trabalhadas.py - Soma horas e minutos trabalhados no mês para facilitar o controle de ponto.
+21_03_2026_gerador_lista_afazeres_cli.py - Gerenciador de tarefas (To-Do List) simples que roda totalmente no terminal.
+22_03_2026_extrator_cep_endereco.py - Busca o endereço completo (Rua, Bairro, Cidade) a partir de um CEP informado via API gratuita.
+23_03_2026_limpador_nomes_arquivos_especiais.py - Remove caracteres especiais e espaços de nomes de arquivos para evitar erros em servidores.
+24_03_2026_gerador_convite_aniversario.py - Cria um arquivo de texto formatado com os dados de uma festa preenchidos pelo usuário.
+25_03_2026_conversor_markdown_html.py - Converte uma sintaxe básica de Markdown (# Título, Negrito) para tags HTML.
+26_03_2026_validador_cartao_credito.py - Verifica se um número de cartão de crédito é teoricamente válido usando o Algoritmo de Luhn.
+27_03_2026_calculo_frequencia_notas_musicais.py - Calcula a frequência em Hertz de uma nota musical baseada em sua oitava.
+28_03_2026_gerador_emails_temporarios.py - Script que gera um endereço de e-mail aleatório para uso em testes rápidos.
+29_03_2026_organizador_pastas_vazias.py - Varre um diretório e exclui todas as subpastas que não possuem nenhum arquivo dentro.
+30_03_2026_calculadora_indices_financeiros.py - Calcula índices como ROI (Retorno sobre Investimento) a partir de dados básicos.
+31_03_2026_extrator_dominio_email.py - Isola apenas a parte do domínio de uma lista de e-mails (ex: gmail.com, outlook.com).
+01_04_2026_simulador_lançamento_moeda_viciada.py - Simula cara ou coroa onde o usuário pode definir uma probabilidade maior para um dos lados.
+02_04_2026_contador_linhas_codigo.py - Conta quantas linhas de código real (ignorando comentários e brancos) existem em um script Python.
+03_04_2026_verificador_anagrama_frase.py - Checa se duas frases são anagramas uma da outra, desconsiderando espaços.
+04_04_2026_gerador_histograma_terminal.py - Cria um gráfico de barras simples usando caracteres ASCII para representar dados numéricos.
+05_04_2026_filtro_logs_erros.py - Lê um arquivo de log extenso e extrai apenas as linhas que contêm a palavra "ERROR".
+06_04_2026_conversor_polegadas_para_cm.py - Realiza a conversão inversa de polegadas para centímetros com precisão decimal.
+07_04_2026_calculo_consumo_energia.py - Estima o custo mensal de um eletrodoméstico baseado em sua potência (Watts) e horas de uso.
+08_04_2026_gerador_json_configuracao.py - Cria um arquivo config.json padrão pedindo as preferências do usuário via terminal.
+09_04_2026_validador_titulo_eleitor.py - Verifica se o formato numérico de um Título de Eleitor segue os padrões brasileiros.
+10_04_2026_localizador_arquivos_duplicados.py - Identifica arquivos com o mesmo tamanho e nome em pastas diferentes para limpeza.
+11_04_2026_verificador_versao_python.py - Verifica a versão do interpretador Python e lista as bibliotecas instaladas no ambiente.
+12_04_2026_gerador_sequencia_lucas.py - Calcula os primeiros N termos da Sequência de Lucas, similar à de Fibonacci mas com início diferente.
+13_04_2026_organizador_desktop.py - Move atalhos e arquivos soltos da área de trabalho para pastas específicas por categoria.
+14_04_2026_validador_data_valida.py - Recebe dia, mês e ano e valida se a data existe realmente no calendário (considerando anos bissextos).
+15_04_2026_simulador_investimento_cdi.py - Calcula a evolução de um capital baseado em uma taxa percentual do CDI e tempo em meses.
+16_04_2026_remover_fundo_imagem.py - Utiliza bibliotecas de IA simples para remover o fundo de uma imagem de forma automatizada.
+17_04_2026_leitor_pdf_paginas_especificas.py - Extrai o texto de um intervalo de páginas selecionado pelo usuário em um arquivo PDF.
+18_04_2026_gerador_fake_user_data.py - Gera dados fictícios de usuários (nome, endereço, cpf) para preenchimento de bancos de dados de teste.
+19_04_2026_calculadora_imc_interface.py - Uma versão com interface gráfica (Tkinter) para o cálculo do Índice de Massa Corporal.
+20_04_2026_organizador_musicas_artista.py - Lê as tags ID3 de arquivos MP3 e os organiza em pastas com o nome do artista e álbum.
+21_04_2026_verificador_ponto_flutuante.py - Compara dois números decimais considerando uma margem de erro para evitar erros de precisão.
+22_04_2026_gerador_senhas_pronunciaveis.py - Cria senhas seguras que são compostas por sílabas fáceis de memorizar e pronunciar.
+23_04_2026_extrair_tabelas_site.py - Captura todas as tabelas HTML de uma URL e as converte em arquivos CSV individuais.
+24_04_2026_simulador_caixa_eletronico.py - Calcula o menor número de cédulas de 100, 50, 20, 10, 5 e 2 para um valor de saque.
+25_04_2026_monitor_espaco_disco.py - Exibe um aviso no terminal caso o espaço livre em uma partição do disco seja inferior a 10%.
+26_04_2026_calculadora_geometria_analitica.py - Calcula a distância entre dois pontos no plano cartesiano e o ponto médio do segmento.
+27_04_2026_gerenciador_clipboard.py - Monitora a área de transferência e salva o histórico de textos copiados em um arquivo log.
+28_04_2026_verificador_dominio_disponivel.py - Checa se um domínio .com.br ou .com está disponível para registro usando consulta WHOIS.
+29_04_2026_conversor_csv_para_json_customizado.py - Transforma dados de uma planilha CSV em um formato JSON estruturado com chaves personalizadas.
+30_04_2026_tradutor_texto_online.py - Traduz uma frase do português para o inglês usando bibliotecas de tradução automática gratuitas.
+01_05_2026_gerador_cartao_bingo.py - Gera cartelas de bingo aleatórias de 5x5 seguindo as regras tradicionais do jogo.
+02_05_2026_validador_titulo_artigo.py - Verifica se um título segue normas ABNT (capitalização, tamanho e ausência de ponto final).
+03_05_2026_buscador_clima_previsao.py - Exibe a previsão do tempo para os próximos 3 dias em uma cidade específica via API.
+04_05_2026_simulador_combate_rpg.py - Sistema de turnos simples onde dois personagens atacam com base em atributos de força e sorte.
+05_05_2026_organizador_fotos_camera.py - Organiza fotos baseando-se no modelo da câmera extraído dos metadados EXIF.
+06_05_2026_calculadora_cientifica_terminal.py - Implementa funções como seno, cosseno, logaritmo e raiz quadrada em um menu interativo.
+07_05_2026_gerador_capa_livro_digital.py - Cria uma imagem JPG simples com título e autor centralizados para servir de capa provisória.
+08_05_2026_monitor_consumo_ram.py - Alerta o usuário via notificação do sistema se o uso de RAM ultrapassar um limite definido.
+09_05_2026_validador_xml_simples.py - Verifica se um arquivo XML está bem formatado, checando a abertura e fechamento correto das tags.
+10_05_2026_gerador_assinatura_email.py - Gera um código HTML para assinatura de e-mail personalizada com foto e links de redes sociais.
+11_05_2026_analisador_sentimento_texto.py - Classifica uma frase como positiva, negativa ou neutra baseada em palavras-chave.
+12_05_2026_conversor_moedas_tempo_real.py - Converte valores entre Real, Dólar e Euro usando cotações atualizadas da internet.
+13_05_2026_gerenciador_anotacoes_sqlite.py - Sistema de notas onde o usuário pode criar, ler e deletar registros em um banco SQLite.
+14_05_2026_verificador_links_quebrados.py - Escaneia um site e identifica links que retornam erro 404 (não encontrado).
+15_05_2026_gerador_poesia_aleatoria.py - Combina versos e rimas pré-definidas para criar pequenos poemas gerados por computador.
+16_05_2026_calculadora_equacao_segundo_grau.py - Resolve equações de 2º grau (Bhaskara) solicitando os coeficientes A, B e C.
+17_05_2026_leitor_rss_terminal.py - Exibe as manchetes de um portal de notícias no terminal de forma limpa e rápida.
+18_05_2026_simulador_venda_estoque.py - Controla a quantidade de produtos em um estoque fictício e alerta quando o nível está baixo.
+19_05_2026_extrator_tags_youtube.py - Recebe a URL de um vídeo do YouTube e extrai as palavras-chave (tags) usadas pelo criador.
+20_05_2026_contador_votos_eleicao.py - Simula uma urna eletrônica onde o usuário vota em candidatos e vê o resultado final.
+21_05_2026_gerador_grafico_pizza.py - Cria um gráfico de setores (pizza) baseado em categorias e valores fornecidos pelo usuário.
+22_05_2026_verificador_arquivos_antigos.py - Lista todos os arquivos de uma pasta que não foram modificados há mais de 6 meses.
+23_05_2026_simulador_investimento_tesouro.py - Compara a rentabilidade bruta entre Tesouro Selic, IPCA e Prefixado em um período.
+24_05_2026_gerador_codigo_barras.py - Gera uma imagem de código de barras padrão EAN-13 a partir de uma sequência numérica.
+25_05_2026_conversor_pdf_para_txt.py - Converte o conteúdo textual de um arquivo PDF para um arquivo de texto simples (.txt).
+26_05_2026_testador_frequencia_processador.py - Monitora a variação da velocidade de clock do processador em tempo real.
+27_05_2026_gerador_menu_restaurante.py - Cria um cardápio formatado em PDF a partir de uma lista de pratos e preços em CSV.
+28_05_2026_buscador_cep_interface.py - Interface gráfica para busca de endereços por CEP com preenchimento automático.
+29_05_2026_verificador_placa_veiculo.py - Verifica se uma placa segue o padrão antigo (ABC-1234) ou o novo padrão Mercosul.
+30_05_2026_simulador_cliques_mouse.py - Automação que simula cliques em coordenadas específicas da tela em intervalos de tempo.
+31_05_2026_gerador_certificado_pdf.py - Gera certificados de participação personalizados em massa a partir de uma lista de nomes.
+01_06_2026_cronometro_pomodoro.py - Timer para técnica Pomodoro (25 min foco / 5 min pausa) com alertas sonoros no terminal.
+02_06_2026_extrair_emails_txt.py - Varre um diretório em busca de arquivos de texto e extrai todos os endereços de e-mail únicos.
+03_06_2026_gerador_nuvem_palavras.py - Cria uma imagem WordCloud (nuvem de palavras) a partir do conteúdo de um livro ou artigo.
+04_06_2026_calculadora_matrizes_soma.py - Realiza a soma de duas matrizes numéricas de mesma dimensão fornecidas pelo usuário.
+05_06_2026_monitor_temperatura_cpu.py - Exibe a temperatura atual dos núcleos do processador para evitar superaquecimento.
+06_06_2026_simulador_criptografia_cesar.py - Implementa a Cifra de César para criptografar e descriptografar mensagens simples.
+07_06_2026_validador_pis_pasep.py - Verifica a validade do dígito verificador de um número de PIS/PASEP informado.
+08_06_2026_gerador_relatorio_sistema.py - Coleta informações de hardware (CPU, RAM, Disco) e salva em um relatório formatado.
+09_06_2026_calculadora_financiamento_sac.py - Gera uma tabela de amortização SAC para financiamento de imóveis ou veículos.
+10_06_2026_localizador_ip_geolocalizacao.py - Identifica a cidade e o país de um endereço IP usando serviços de geolocalização.
+11_06_2026_conversor_yaml_para_json.py - Ferramenta de linha de comando para converter arquivos de configuração YAML em JSON.
+12_06_2026_gerador_nomes_bebes.py - Sugere nomes de bebês baseados em tendências de anos anteriores e significados.
+13_06_2026_analisador_uso_bandwidth.py - Monitora a quantidade de dados enviados e recebidos pela placa de rede.
+14_06_2026_simulador_monty_hall.py - Jogo interativo que demonstra o paradoxo estatístico do problema de Monty Hall.
+15_06_2026_extrator_texto_imagem_ocr.py - Utiliza OCR para ler texto de fotos de documentos ou capturas de tela.
+16_06_2026_gerenciador_senhas_criptografado.py - Salva senhas em um arquivo local protegido por chave mestra e criptografia AES.
+17_06_2026_calculadora_imc_infantil.py - Cálculo de IMC específico para crianças e adolescentes usando tabelas de percentil.
+18_06_2026_monitor_mudanca_arquivo.py - Detecta se um arquivo específico foi alterado e executa um comando automaticamente.
+19_06_2026_gerador_tabuleiro_xadrez.py - Gera uma representação visual ou em texto de um tabuleiro de xadrez em qualquer estado.
+20_06_2026_validador_cnpj_receita.py - Consulta se um CNPJ está ativo diretamente na base da Receita Federal (via API).
+21_06_2026_simulador_sorteio_amigo_secreto.py - Realiza o sorteio de nomes garantindo que ninguém tire a si mesmo.
+22_06_2026_conversor_epub_para_pdf.py - Converte livros digitais no formato EPUB para arquivos PDF prontos para impressão.
+23_06_2026_gerador_faturas_simples.py - Cria faturas profissionais em PDF com cálculo automático de impostos e totais.
+24_06_2026_monitor_sites_uptime.py - Verifica de 5 em 5 minutos se uma lista de sites está respondendo corretamente.
+25_06_2026_calculadora_probabilidade_dados.py - Calcula a chance de sair uma soma específica ao lançar múltiplos dados.
+26_06_2026_extrator_comentarios_blog.py - Faz o scraping de comentários de uma página de blog para análise de feedback.
+27_06_2026_gerador_curriculo_markdown.py - Gera um currículo elegante a partir de um arquivo de configuração Markdown.
+28_06_2026_simulador_gravidade_simples.py - Pequena animação no terminal simulando a queda de um objeto sob efeito da gravidade.
+29_06_2026_verificador_forca_senha_v2.py - Analisa a senha comparando-a com uma lista das 10.000 senhas mais comuns.
+30_06_2026_gerenciador_biblioteca_pessoal.py - Sistema para cadastrar livros lidos, autores e dar notas pessoais.
+01_07_2026_calendario_eventos_terminal.py - Exibe o calendário do mês atual com marcações de feriados e eventos salvos.
+02_07_2026_gerador_paleta_cores_imagem.py - Analisa uma foto e extrai as 5 cores predominantes em formato hexadecimal.
+03_07_2026_buscador_letras_musicas.py - Busca a letra de uma música informando o nome do artista e da canção.
+04_07_2026_simulador_venda_ingressos.py - Sistema de reserva de assentos para cinema com mapa visual em caracteres ASCII.
+05_07_2026_validador_cnh_brasileira.py - Verifica se o número de uma CNH segue o padrão de cálculo oficial.
+06_07_2026_gerador_relatorio_vendas_grafico.py - Lê dados de vendas mensais e gera um gráfico de linhas mostrando a tendência.
+07_07_2026_monitor_precos_ecommerce.py - Notifica o usuário por e-mail quando o preço de um produto em um site cair.
+08_07_2026_calculadora_perimetro_poligono.py - Calcula o perímetro de qualquer polígono regular informando número de lados.
+09_07_2026_extrator_metadados_video.py - Obtém resolução, bitrate e codec de um arquivo de vídeo MP4 ou MKV.
+10_07_2026_gerador_sprites_pixel_art.py - Script que gera padrões simétricos aleatórios de 8x8 pixels para ícones.
+11_07_2026_simulador_fila_banco.py - Demonstra o funcionamento de uma estrutura de dados Fila (FIFO) simulando atendimento.
+12_07_2026_verificador_arquivo_executavel.py - Identifica se um arquivo é um binário executável e qual a sua arquitetura.
+13_07_2026_gerador_termos_uso_site.py - Cria um rascunho de termos de uso e política de privacidade para sites.
+14_07_2026_calculadora_matematica_discreta.py - Calcula permutações, arranjos e combinações simples de um conjunto de elementos.
+15_07_2026_monitor_processos_consumo_alto.py - Lista automaticamente os 5 processos que mais estão consumindo CPU no momento.
+16_07_2026_extrator_texto_clipboard.py - Captura textos formatados da área de transferência e os converte para texto puro.
+17_07_2026_gerador_mapa_mental_txt.py - Organiza ideias em uma estrutura hierárquica visual usando recuos e linhas.
+18_07_2026_simulador_bolsa_valores.py - Jogo simples de compra e venda de ações fictícias com variação de preços.
+19_07_2026_validador_cartao_sus.py - Verifica se o número do Cartão Nacional de Saúde (SUS) é válido conforme as regras oficiais.
+20_07_2026_organizador_downloads_extensao.py - Move arquivos da pasta Downloads para subpastas (Documentos, Imagens, Vídeos) conforme a extensão.
+21_07_2026_extrator_links_markdown.py - Lê um arquivo .md e extrai todos os links e seus respectivos textos âncora para um relatório.
+22_07_2026_simulador_investimento_fii.py - Calcula a projeção de rendimentos mensais de Fundos Imobiliários com base no Dividend Yield e aporte.
+23_07_2026_gerador_hash_diretorio.py - Gera um arquivo com o hash SHA-256 de todos os arquivos de uma pasta para verificação de integridade.
+24_07_2026_conversor_excel_para_sqlite.py - Importa automaticamente todas as abas de um arquivo Excel para tabelas em um banco de dados SQLite.
+25_07_2026_monitor_bateria_notificacao.py - Emite um alerta sonoro e visual quando a bateria do notebook atinge 20% ou 80%.
+26_07_2026_gerador_fake_ecommerce_data.py - Cria uma base de dados fictícia de pedidos, produtos e clientes para testes de sistemas de vendas.
+27_07_2026_calculadora_geodesica_haversine.py - Calcula a distância "em linha reta" entre duas coordenadas GPS considerando a curvatura da Terra.
+28_07_2026_verificador_validade_ssl.py - Checa a data de expiração do certificado SSL de um site e avisa se estiver perto do fim.
+29_07_2026_simulador_urna_eletronica_v2.py - Versão avançada com foto do candidato (via terminal) e relatório de porcentagem final.
+30_07_2026_extrator_texto_pdf_ocr.py - Converte PDFs que são imagens (scaneados) em texto pesquisável usando técnicas de OCR.
+31_07_2026_gerador_cartao_ponto_txt.py - Gera um espelho de ponto mensal com horários aleatórios dentro de uma faixa de tolerância.
+01_08_2026_analisador_frequencia_letras.py - Conta a ocorrência de cada letra em um texto e gera um gráfico de barras no terminal.
+02_08_2026_buscador_clima_historico.py - Consulta e exibe a temperatura média de uma cidade em uma data específica no passado (via API).
+03_08_2026_organizador_arquivos_tamanho.py - Identifica e move arquivos muito grandes (ex: >1GB) para uma pasta de "Limpeza".
+04_08_2026_gerador_script_sql_insert.py - Converte uma lista de dicionários Python em comandos SQL 'INSERT INTO' prontos para executar.
+05_08_2026_validador_formato_telefone_internacional.py - Verifica se números de telefone seguem o padrão E.164 para diferentes países.
+06_08_2026_simulador_mercado_financeiro_cli.py - Jogo de terminal onde preços de ativos mudam a cada segundo e o usuário pode "comprar".
+07_08_2026_gerador_lista_m3u_local.py - Varre pastas de música e cria um arquivo de playlist .m3u compatível com players de áudio.
+08_08_2026_verificador_disponibilidade_porta_rede.py - Testa se portas específicas (80, 443, 3306) estão abertas em um servidor ou IP.
+09_08_2026_calculadora_pensionato_aluguel.py - Divide despesas de uma casa (luz, internet, aluguel) proporcionalmente entre moradores.
+10_08_2026_conversor_json_para_yaml.py - Utilitário simples para converter arquivos de configuração do formato JSON para YAML.
+11_08_2026_extrator_metadados_mp3.py - Lê artista, álbum, ano e gênero de arquivos MP3 e exibe em uma tabela organizada.
+12_08_2026_gerador_qr_code_vcard.py - Cria um QR Code que, ao ser lido, adiciona automaticamente um contato à agenda do celular.
+13_08_2026_monitor_uso_gpu.py - Exibe o uso de memória e carga da placa de vídeo (compatível com NVIDIA/AMD).
+14_08_2026_validador_schema_json.py - Verifica se um arquivo JSON segue rigorosamente uma estrutura (schema) pré-definida.
+15_08_2026_gerador_calendario_html.py - Cria um arquivo HTML com o calendário do ano inteiro, permitindo marcação de feriados.
+16_08_2026_extrator_fotos_instagram_publico.py - Baixa as fotos de um perfil público do Instagram (apenas para fins de estudo de scraping).
+17_08_2026_simulador_loteria_estatistica.py - Roda 1 milhão de sorteios e diz quanto tempo levaria para você ganhar na Mega-Sena.
+18_08_2026_conversor_unidades_cozinha.py - Converte xícaras, colheres de sopa e gramas para diferentes tipos de ingredientes.
+19_08_2026_gerador_massa_dados_csv.py - Cria arquivos CSV com milhões de linhas de dados aleatórios para testes de performance.
+20_08_2026_verificador_arquivo_corrompido.py - Tenta abrir diversos tipos de arquivos e reporta quais não puderam ser lidos.
+21_08_2026_calculadora_datas_uteis.py - Calcula a data final de um prazo considerando apenas dias úteis e feriados nacionais.
+22_08_2026_organizador_desktop_v2.py - Versão que limpa o Desktop baseando-se na última data de acesso do arquivo.
+23_08_2026_gerador_texto_lorem_ipsum.py - Gera parágrafos de texto "Lorem Ipsum" com quantidade de palavras definida pelo usuário.
+24_08_2026_monitor_logs_realtime.py - Exibe novas linhas de um arquivo de log à medida que são gravadas (estilo comando tail -f).
+25_08_2026_extrator_tabela_pdf_pandas.py - Localiza tabelas dentro de um PDF e as carrega diretamente em um DataFrame do Pandas.
+26_08_2026_validador_expressao_matematica.py - Verifica se parênteses, colchetes e chaves estão fechados corretamente em uma fórmula.
+27_08_2026_gerador_identidade_visual_ascii.py - Cria banners de texto estilizados com diferentes fontes ASCII para cabeçalhos de scripts.
+28_08_2026_simulador_clima_planeta_ficticio.py - Gera condições climáticas aleatórias baseadas em regras de biomas de RPG.
+29_08_2026_conversor_heic_para_jpg.py - Converte fotos de iPhones (.heic) para o formato padrão .jpg em lote.
+30_08_2026_buscador_vagas_linkedin_simples.py - Script de automação que busca títulos de vagas específicas no LinkedIn.
+31_08_2026_gerador_recibo_pagamento_pdf.py - Cria um recibo assinado digitalmente em PDF com os dados de um serviço prestado.
+01_09_2026_monitor_servico_windows_linux.py - Verifica se um serviço específico (ex: MySQL, Apache) está rodando no sistema.
+02_09_2026_calculadora_bits_subnet_ip.py - Calcula a máscara de sub-rede e o IP de broadcast a partir de um endereço CIDR.
+03_09_2026_extrator_comentarios_codigo.py - Varre arquivos .py e extrai todos os comentários (Docstrings) para documentação externa.
+04_09_2026_gerador_mapa_calor_terminal.py - Representa intensidades de dados no terminal usando diferentes tons de cores de fundo.
+05_09_2026_validador_nota_fiscal_eletronica.py - Verifica se a chave de acesso de uma NF-e possui 44 dígitos e o formato correto.
+06_09_2026_simulador_cache_lru.py - Demonstra como funciona o algoritmo de substituição de cache "Least Recently Used".
+07_09_2026_gerador_template_flask.py - Cria automaticamente a estrutura de pastas e arquivos base para um novo projeto Web Flask.
+08_09_2026_buscador_precos_jogos.py - Compara o preço de um jogo em diferentes lojas digitais via scraping.
+09_09_2026_conversor_texto_fala_offline.py - Converte texto em áudio usando bibliotecas que não dependem de internet (pyttsx3).
+10_09_2026_extrator_coordenadas_exif.py - Extrai a latitude e longitude onde uma foto foi tirada a partir dos seus metadados.
+11_09_2026_gerador_senha_wifi_qr.py - Gera um QR Code para visitantes escanearem e conectarem ao Wi-Fi sem digitar senha.
+12_09_2026_monitor_temperatura_hd_ssd.py - Alerta se a temperatura do disco rígido ultrapassar níveis de segurança (S.M.A.R.T.).
+13_09_2026_validador_proporcao_aurea.py - Verifica se as dimensões de um objeto ou imagem seguem a proporção áurea (phi).
+14_09_2026_simulador_sistema_solar_texto.py - Calcula a posição relativa dos planetas em relação ao sol em uma data específica.
+15_09_2026_gerador_lista_presenca_qr.py - Cria um QR Code que aponta para um formulário de presença e gera a lista em CSV.
+16_09_2026_extrator_audios_video.py - Extrai a trilha sonora de um arquivo de vídeo e salva como um arquivo .mp3 separado.
+17_09_2026_monitor_uso_cpu_grafico_ascii.py - Desenha um gráfico de linha no terminal mostrando o histórico de uso da CPU.
+18_09_2026_calculadora_conversao_bases.py - Converte números entre binário, octal, decimal e hexadecimal de forma simultânea.
+19_09_2026_gerador_diagrama_fluxo_txt.py - Cria fluxogramas simples usando setas e caixas feitas de caracteres ASCII.
+20_09_2026_validador_seguranca_ssh.py - Analisa o arquivo de configuração do SSH e sugere melhorias de segurança.
+21_09_2026_simulador_criptografia_rsa.py - Demonstra o funcionamento básico de chaves públicas e privadas para mensagens.
+22_09_2026_conversor_unidades_pressao.py - Converte valores entre bar, psi, pascal e atmosfera de forma rápida.
+23_09_2026_gerador_etiquetas_correios.py - Gera um PDF com etiquetas de remetente e destinatário no padrão oficial dos Correios.
+24_09_2026_monitor_ping_multiplos_hosts.py - Dispara pings para vários servidores ao mesmo tempo e mostra o status em tempo real.
+25_09_2026_extrator_links_youtube_playlist.py - Recebe o link de uma playlist do YouTube e salva os títulos e URLs em um arquivo.
+26_09_2026_gerador_avatar_geometrico.py - Cria um avatar único para o usuário baseado em formas geométricas geradas a partir do nome.
+27_09_2026_validador_url_maliciosa.py - Verifica se uma URL consta em listas negras de phishing ou malware (via API).
+28_09_2026_simulador_vendas_pdv.py - Interface simples de "Ponto de Venda" para registrar itens e emitir cupom não fiscal.
+29_09_2026_conversor_docx_para_pdf.py - Converte documentos do Word (.docx) para PDF mantendo a formatação básica.
+30_09_2026_gerador_palavras_cruzadas_base.py - Organiza uma lista de palavras em uma grade simples para jogos de passatempo.
+01_10_2026_monitor_alteracao_diretorio.py - Notifica o usuário sempre que um novo arquivo é criado ou deletado em uma pasta.
+02_10_2026_calculadora_calorias_diarias.py - Calcula a taxa metabólica basal e calorias necessárias com base no nível de atividade.
+03_10_2026_extrator_anexos_email.py - Conecta-se a uma conta via IMAP e baixa todos os anexos de e-mails de um remetente.
+04_10_2026_gerador_codigo_morse_audio.py - Converte texto em código Morse e gera um arquivo .wav com os bips correspondentes.
+05_10_2026_validador_iban_bancario.py - Verifica se um código IBAN (transferências internacionais) é válido estruturalmente.
+06_10_2026_simulador_processamento_paralelo.py - Demonstra a diferença de tempo entre execução sequencial e usando Multi-processing.
+07_10_2026_gerador_template_readme.py - Cria um arquivo README.md profissional para projetos GitHub através de perguntas.
+08_10_2026_buscador_clima_maritimo.py - Consulta temperatura da água e altura de ondas para praias específicas (via API).
+09_10_2026_conversor_csv_para_xml.py - Transforma linhas de uma planilha CSV em registros estruturados em um arquivo XML.
+10_10_2026_extrator_scripts_js_html.py - Analisa um site e lista todos os arquivos JavaScript externos que ele carrega.
+11_10_2026_gerador_grafico_dispersao.py - Cria um gráfico de pontos (Scatter Plot) para analisar a correlação entre duas variáveis.
+12_10_2026_monitor_velocidade_leitura_disco.py - Mede a velocidade de leitura (MB/s) de diferentes pastas do computador.
+13_10_2026_validador_codigo_postal_global.py - Valida o formato de CEPs/ZipCodes de diversos países usando máscaras de Regex.
+14_10_2026_simulador_lançamento_foguete.py - Pequena animação em ASCII com contagem regressiva e efeitos de subida.
+15_10_2026_gerador_encurtador_url_simples.py - Script que gera um redirecionamento simples (usando APIs como Bitly ou similares).
+16_10_2026_extrator_cores_css.py - Varre arquivos .css e extrai todos os códigos hexadecimais e RGB utilizados no projeto.
+17_10_2026_monitor_vencimento_medicamentos.py - Sistema simples para cadastrar remédios e avisar 1 mês antes do vencimento.
+18_10_2026_calculadora_pegada_carbono.py - Estima a emissão de CO2 baseada em quilômetros rodados e consumo de energia.
+19_10_2026_gerador_mapa_site_xml.py - Escaneia um site local e gera o arquivo sitemap.xml para motores de busca.
+20_10_2026_validador_assinatura_digital.py - Verifica se uma assinatura digital em um arquivo é válida contra uma chave pública.
+21_10_2026_simulador_algoritmo_dijkstra.py - Encontra o caminho mais curto entre dois pontos em um mapa de nós simples.
+22_10_2026_conversor_mp4_para_gif.py - Transforma pequenos vídeos em GIFs animados com controle de frames por segundo.
+23_10_2026_gerador_dados_sensores_iot.py - Simula o fluxo de dados (temperatura, umidade) de um sensor para testes de dashboard.
+24_10_2026_monitor_ping_estatistico.py - Faz ping contínuo e gera um relatório com latência mínima, média e máxima.
+25_10_2026_extrator_tags_id3_v2.py - Versão que permite editar as informações (título, artista) de arquivos de áudio.
+26_10_2026_gerador_relatorio_pdf_mensal.py - Agrupa logs de um mês e gera um relatório executivo formatado em PDF.
+27_10_2026_validador_compatibilidade_python.py - Checa se o código é compatível com versões específicas do Python (ex: 3.8+).
+28_10_2026_validador_expressao_regular.py - Interface simples para testar padrões de Regex e ver os grupos capturados em tempo real.
+29_10_2026_gerador_meme_terminal.py - Adiciona textos em cima de templates de imagens famosas usando a biblioteca Pillow.
+30_10_2026_monitor_espaco_google_drive.py - Consulta via API quanto espaço resta no armazenamento do Google Drive do usuário.
+31_10_2026_simulador_fantasma_halloween.py - Gera sons assustadores e frases de terror aleatórias em uma interface temática de Halloween.
+01_11_2026_extrator_texto_ppt.py - Extrai o conteúdo textual de todos os slides de uma apresentação do PowerPoint (.pptx).
+02_11_2026_backup_fotos_nuvem.py - Script que sincroniza uma pasta local de fotos com um serviço de nuvem (Dropbox/Drive/S3).
+03_11_2026_calculadora_geometria_3d.py - Calcula volume e área de superfície de cones, cilindros, prismas e pirâmides.
+04_11_2026_gerador_relatorio_git_stats.py - Analisa um repositório Git e gera estatísticas de commits, autores e arquivos alterados.
+05_11_2026_detector_idioma_texto.py - Identifica automaticamente em qual idioma um parágrafo de texto foi escrito usando IA.
+06_11_2026_monitor_vencimento_dominios.py - Lê uma lista de sites e avisa por e-mail quando o registro de algum estiver vencendo.
+07_11_2026_gerador_massa_usuarios_json.py - Cria um arquivo JSON com 500 perfis de usuários aleatórios para testes de API.
+08_11_2026_conversor_moedas_offline_fixo.py - Converte valores entre moedas usando uma tabela de taxas fixas salva em arquivo local.
+09_11_2026_simulador_estatistico_bayes.py - Demonstra a atualização de probabilidades usando o Teorema de Bayes em um exemplo prático.
+10_11_2026_organizador_pastas_mes_ano.py - Move arquivos para uma estrutura hierárquica de pastas baseada na data de criação (Ano/Mês).
+11_11_2026_gerenciador_biblioteca_pessoal_sqlite.py - Cadastro completo de livros com busca por autor, gênero e status de leitura.
+12_11_2026_buscador_clima_cidade_gui.py - Interface gráfica elegante que mostra temperatura e ícones do tempo atual.
+13_11_2026_gerador_qr_code_pix.py - Gera o código "Copia e Cola" e o QR Code estático para recebimentos via Pix.
+14_11_2026_extrator_metadados_pdf.py - Lê autor, título, palavras-chave e software de criação de um arquivo PDF.
+15_11_2026_simulador_banco_terminal_v2.py - Versão evoluída com histórico de transações salvo em arquivo e login por senha.
+16_11_2026_conversor_csv_para_markdown_tabela.py - Transforma uma planilha CSV em uma tabela formatada para arquivos README.md.
+17_11_2026_gerador_assinatura_digital_hash.py - Assina um arquivo gerando um hash único e verifica a autenticidade posteriormente.
+18_11_2026_monitor_servidor_minecraft.py - Verifica se um servidor de Minecraft está online e lista quantos jogadores estão conectados.
+19_11_2026_calculadora_financeira_price.py - Gera a tabela de amortização pelo sistema Price para empréstimos e financiamentos.
+20_11_2026_extrator_comentarios_instagram.py - Faz o scraping dos comentários de um post específico para sorteios ou análise.
+21_11_2026_gerador_mapa_calor_vendas.py - Cria uma representação visual de onde vêm os clientes baseando-se em uma lista de cidades.
+22_11_2026_simulador_mercado_acoes_v2.py - Permite simular a compra de ações reais com preços atualizados da bolsa (YFinance).
+23_11_2026_conversor_unidades_energia.py - Converte valores entre Joule, Caloria, BTU e Kilowatt-hora.
+24_11_2026_gerador_contrato_aluguel_word.py - Preenche um modelo de contrato de aluguel (.docx) com os dados de locador e locatário.
+25_11_2026_organizador_downloads_inteligente.py - Move arquivos para pastas sugeridas usando uma classificação simples de palavras no nome.
+26_11_2026_validador_acessibilidade_web.py - Checa tags alt em imagens e estrutura de cabeçalhos em uma URL para acessibilidade.
+27_11_2026_gerador_grafico_velas_stocks.py - Desenha um gráfico Candlestick para análise técnica de ações usando bibliotecas gráficas.
+28_11_2026_simulador_clima_rpg.py - Gera descrições imersivas de clima e visibilidade para mestres de RPG de mesa.
+29_11_2026_extrator_legenda_youtube.py - Baixa a legenda gerada automaticamente ou manual de um vídeo do YouTube via URL.
+30_11_2026_gerenciador_gastos_pessoais_gui.py - Dashboard simples para registrar entradas e saídas financeiras com gráficos.
+01_12_2026_calendario_advento_python.py - Abre uma "porta" por dia revelando um desafio de código ou curiosidade sobre Python.
+02_12_2026_gerador_cartao_natal_ascii.py - Cria artes de árvores de natal e Papai Noel usando apenas caracteres de texto.
+03_12_2026_validador_certificados_digitais.py - Verifica se um certificado .pfx ou .cer é válido e exibe as informações do titular.
+04_12_2026_monitor_estoque_ecommerce.py - Avisa quando um produto que estava "esgotado" em uma loja volta a ficar disponível.
+05_12_2026_gerador_lista_presentes_amigo_secreto.py - Gerencia sugestões de presentes e envia por e-mail para os participantes.
+06_12_2026_conversor_imagem_para_vetor_svg.py - Transforma silhuetas de imagens bitmap em caminhos vetoriais escaláveis (.svg).
+07_12_2026_calculadora_ferias_clt.py - Calcula o valor bruto e líquido a receber nas férias, considerando terço constitucional.
+08_12_2026_extrator_links_redes_sociais.py - Busca perfis de Instagram, Twitter e LinkedIn dentro de um site institucional.
+09_12_2026_gerador_texto_fala_poliglota.py - Converte texto em áudio permitindo escolher sotaques e vozes de diferentes países.
+10_12_2026_simulador_impacto_asteroide.py - Calcula a energia liberada e o diâmetro da cratera baseado na massa e velocidade do corpo.
+11_12_2026_gerador_codigo_estatico_api.py - Cria automaticamente as classes de modelo a partir de um arquivo JSON de resposta de API.
+12_12_2026_monitor_saude_ssd_smart.py - Lê os atributos S.M.A.R.T. do SSD e alerta se houver risco iminente de falha.
+13_12_2026_validador_identidade_brasileira.py - Verifica a estrutura numérica de documentos como RG e Reservista (formatos padrão).
+14_12_2026_gerador_template_email_marketing.py - Cria um arquivo HTML responsivo para campanhas de e-mail com botões e imagens.
+15_12_2026_simulador_evolucao_populacional.py - Aplica modelos matemáticos para prever o crescimento de uma população em N anos.
+16_12_2026_conversor_pdf_para_imagem_lote.py - Transforma cada página de um arquivo PDF em uma imagem JPG ou PNG individual.
+17_12_2026_gerador_qrcode_dinamico_base.py - Script que gera um QR Code que aponta para um serviço de redirecionamento próprio.
+18_12_2026_monitor_precos_passagens_aereas.py - Consulta via scraping preços de voos para um destino e avisa sobre promoções.
+19_12_2026_calculadora_diferenca_fusos.py - Mostra a hora atual em 5 cidades diferentes do mundo simultaneamente.
+20_12_2026_gerador_playlist_spotify_humor.py - Sugere músicas baseadas no sentimento extraído de uma frase digitada pelo usuário.
+21_12_2026_extrator_tags_seo_site.py - Analisa Title, Meta Description e H1 de uma página para verificar otimização SEO.
+22_12_2026_simulador_logica_portas_and_or.py - Interface que permite montar circuitos lógicos simples e ver o resultado booleano.
+23_12_2026_gerador_menu_natalino_pdf.py - Cria um cardápio temático de Natal com receitas e lista de ingredientes formatada.
+24_12_2026_rastreador_papai_noel_simulado.py - Mostra a "localização" fictícia do trenó e curiosidades sobre os países visitados.
+25_12_2026_gerador_mensagem_gratidao.py - Cria mensagens personalizadas de agradecimento de fim de ano para clientes e amigos.
+26_12_2026_analisador_retrospectiva_ano.py - Lê os logs de projetos do ano e gera um resumo de quantas linhas de código foram escritas.
+27_12_2026_gerador_metas_ano_novo.py - Interface interativa para definir objetivos para 2027 e salvar em um dashboard.
+28_12_2026_simulador_fogo_artificio_terminal.py - Animação colorida no terminal simulando explosões de fogos de artifício em ASCII.
+29_12_2026_limpador_arquivos_temporarios_anual.py - Varre o sistema em busca de caches pesados acumulados durante o ano para limpeza.
+30_12_2026_gerador_contagem_regressiva_gui.py - Relógio em tela cheia que faz a contagem regressiva para a virada do ano.
+31_12_2026_resumo_365_scripts_python.py - Script final que lista todos os títulos criados no ano e gera um índice geral.

@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-vscode-bg text-vscode-text font-sans antialiased overflow-hidden;
+  }
+  
+  html.light body {
+    @apply bg-vslight-bg text-vslight-text;
+  }
+}
+
+/* Scrollbar customizations */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #424242;
+  border-radius: 0;
+}
+
+html.light ::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4f4f4f;
+}
+
+html.light ::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Terminal & Pyodide Overrides */
+.terminal-output {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace;
+}
