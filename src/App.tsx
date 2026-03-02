@@ -36,7 +36,7 @@ function App() {
     { target: 'footer', content: 'Tudo feito com imenso carinho e foco no seu total aprendizado. Aproveite o projeto e até o fim do desafio!' }
   ];
 
-  const TourTooltip = ({ continuous, index, isLastStep, step, backProps, closeProps, primaryProps, skipProps, tooltipProps }: any) => (
+  const TourTooltip = ({ index, isLastStep, step, backProps, primaryProps, skipProps, tooltipProps }: any) => (
     <div {...tooltipProps} className="bg-vscode-bg/50 backdrop-blur-2xl border border-white/10 shadow-2xl rounded-2xl p-6 max-w-sm text-vscode-text">
       {step.title && <h3 className="text-xl font-bold mb-2 text-vscode-textActive bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">{step.title}</h3>}
       <div className="text-sm font-medium leading-relaxed opacity-90 mb-6 drop-shadow-md">{step.content}</div>
